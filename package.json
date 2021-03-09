@@ -8,7 +8,8 @@
     "build:lib": "ng build angular-user-idle",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "prepare": "npm run build:lib"
   },
   "description": "Example app of angular-user-idle",
   "repository": {
