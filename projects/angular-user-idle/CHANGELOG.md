@@ -1,3 +1,6 @@
+## 2.2.5
+- Upgrade peer dependencies for Angular 11
+
 ## 2.2.4
 - No changes
 
